@@ -4,7 +4,7 @@ loaderVersion = "[47,)"
 license = "Insert License Here"
 
 [[mods]]
-modId = "myjaddon"
+modId = "zelliesdentalmints"
 version = "${version}"
 displayName = "JCraft Example Addon"
 authors = "Me!"
